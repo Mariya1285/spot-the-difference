@@ -9,5 +9,6 @@
    **python scrpit1.py**
 
 **OUTPUT**
+
 The code aims to spot the difference between given two images. 
 Here, you will find the bounding box with unique color code as the identifier to spot the respective differences in the two images.
